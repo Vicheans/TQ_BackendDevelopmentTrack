@@ -1,0 +1,23 @@
+{
+  "name": "techquest_bdt",
+  "version": "1.0.0",
+  "description": "TQ backend development track",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicheans/TQ_BackendDevelopmentTrack.git"
+  },
+  "keywords": [
+    "Backend",
+    "Devlopment"
+  ],
+  "author": "Victor Olateju et Joshua Gbogodor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicheans/TQ_BackendDevelopmentTrack/issues"
+  },
+  "homepage": "https://github.com/Vicheans/TQ_BackendDevelopmentTrack#readme"
+}
