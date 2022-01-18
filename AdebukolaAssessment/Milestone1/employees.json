@@ -1,0 +1,14 @@
+[
+    {
+      "employeeId": "1277859",
+      "age": 21,
+      "eyeColor": "green",
+      "name": "Ade Kahn",
+      "gender": "male",
+      "company": "Equop",
+      "email": "akahn@equop.com",
+      "phone": "+234 (808) 123-4562",
+      "address": "Lagos, Nigeria",
+      "favoriteFruit": "banana"
+    }
+  ]
